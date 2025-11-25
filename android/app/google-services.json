@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "843619339586",
+    "project_id": "auth--fb-x",
+    "storage_bucket": "auth--fb-x.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843619339586:android:5cc9a0097fabbed00b4cdb",
+        "android_client_info": {
+          "package_name": "com.example.first_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843619339586-2gqh9momk45i62demnfedn0fhv1tcjlt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.first_pro",
+            "certificate_hash": "1e9e679796ca66f3de3d093315832888303a114a"
+          }
+        },
+        {
+          "client_id": "843619339586-9f079g3froee2ve5fojvgiug08h8uc38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABJy2NIH4NEdy4E_YcLOlT4dC-knyuvpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843619339586-9f079g3froee2ve5fojvgiug08h8uc38.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "843619339586-4sn44o7r5jeen3vc9bmm6u18ugi2d7bn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firstPro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
