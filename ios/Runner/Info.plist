@@ -45,5 +45,20 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+
+	<!-- Facebook Configuration -->
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb848009604370621</string>
+			</array>
+		</dict>
+	</array>
+	<key>FacebookAppID</key>
+	<string>848009604370621</string>
+	<key>FacebookDisplayName</key>
+	<string>First Pro</string>
 </dict>
 </plist>

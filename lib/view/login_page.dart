@@ -282,8 +282,8 @@ class _LoginPageState extends State<LoginPage> {
                       child: Image.asset('lib/assets/twitter.png', height: 32),
                       onPressed: _callTwitterSignIn,
                     ),
-                    SizedBox(width: 30),
-                    CustomSocialIcon(child: Image.asset('lib/assets/icloud.png', height: 32)),
+                  //   SizedBox(width: 30),
+                  //   CustomSocialIcon(child: Image.asset('lib/assets/icloud.png', height: 32)),
                   ],
                 ),
 
